@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1172221649366560841/1198548775422140416/Purple_Gradient_Modern_Gaming_Channel_Youtube_Banner.png?ex=65bf4e88&is=65acd988&hm=be9e7bebe294d00e79ac543d8c5fc34688df4e6d13414ca482f27a4128ccb092&)
 <h1 align="center">Hi 👋, I'm Akshat Tiwari</h1>
-<h3 align="center">A passionate game developer from India</h3>
+<h3 align="center">A passionate Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshattiwaari&label=Profile%20views&color=0e75b6&style=flat" alt="akshattiwaari" /> </p>
